@@ -2,7 +2,7 @@
 # Project Overview
 
 This personal project explores how sales data can be transformed into meaningful business insights using Microsoft Power BI.
-Objectives
+# Objectives
 
     Analyze sales performance by product and region.
     Track sales trends over time.
@@ -28,5 +28,4 @@ Sample sales data created for learning and portfolio demonstration. The data is 
 
     Power BI report (.pbix)
     Dashboard screenshots
-    Data-cleaning and KPI documentation
-    Business insights and findings
+   
